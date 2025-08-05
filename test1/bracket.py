@@ -13,4 +13,8 @@ def is_balanced_brackets(s):
 
 
 if __name__ == "__main__":
+
+   print("I`m learning python")
+
    print("hellow world")
+
