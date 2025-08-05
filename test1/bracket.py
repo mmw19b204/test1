@@ -13,11 +13,4 @@ def is_balanced_brackets(s):
 
 
 if __name__ == "__main__":
-    # Sample input
-    test_strings = [
-        "()", "()[]{}", "(]", "([)]", "{[]}", "((({[]})))", "[(])", ""
-    ]
-
-    for s in test_strings:
-        result = is_balanced_brackets(s)
-        print(f"{s:12} -> {'Balanced' if result else 'Not Balanced'}")
+   print("hellow world")
